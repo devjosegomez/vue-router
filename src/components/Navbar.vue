@@ -31,4 +31,9 @@ a{
     color: darkseagreen;
 }
 
+a.router-link-exact-active{
+    color: rebeccapurple;
+    border: 4px solid yellow;
+}
+
 </style>
